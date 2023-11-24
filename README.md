@@ -40,6 +40,8 @@ Keybinds & Controls
 ## WIP Mockups for the Ennemies
 
 ### Jamaica, the initial antagonist
+
+Designed for PC platforms and created on Unity
 ![Jam_Mock](https://github.com/Finnnny/Rafaboy/assets/151270723/7da94f44-fa0e-4ad5-9a48-36508677c96f)
 
 ### A frog... the least evil(?) mob

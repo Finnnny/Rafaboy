@@ -11,6 +11,21 @@
 # Title Screen
 <img width="1280" alt="Screenshot 2023-09-23 123811" src="https://github.com/Finnnny/Rafaboy/assets/151270723/fa8641df-5512-401c-874c-80adda4551ab">
 
+Gameplay Mechanics:
+- Raffy can jump, crouch, and use a portable metal staff.
+- The metal staff can do Light Attacks and Special Attacks.
+- For the first level, Raffy learns how to throw the metal staff at enemies once she defeats Jollydot.
+- In non-hostile areas, Raffy hides the staff. She refuses to take it out when attempting to attack.
+- Raffy can save the game in any non-hostile area.
+- A Game Over scene plays whenever Raffy loses all her life. Choosing to continue restarts the game from the last non-hostile point, or before the boss battle.
+
+Keybinds & Controls
+- Arrow Keys (Walking and crouch movements)
+- Spacebar (Jump)
+- Z (Attack, Hold to throw staff)
+- Tab (Open inventory)
+
+
 # Tutorial Level Design
 ## Where the player learns to use JUMP and the basic ATTACK
 <img width="758" alt="Screenshot 2023-10-27 214709" src="https://github.com/Finnnny/Rafaboy/assets/151270723/43565f68-193d-4b90-b5d4-0dd9af384e3e">
